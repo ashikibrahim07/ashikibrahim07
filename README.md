@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashik Ibrahim S</h1>
 <h3 align="center">A passionate frontend developer from TamilNadu, India.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ashikibrahim07.github.io/ashik-ibrahim-portfolio-react/](https://ashikibrahim07.github.io/ashik-ibrahim-portfolio-react/)
+- 👨‍💻 All of my projects are available at [https://ashikibrahim.netlify.app/)
 
 - 💬 Ask me about **Redux, SASS.**
 
